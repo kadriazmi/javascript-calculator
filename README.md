@@ -34,12 +34,12 @@ The application allows users to perform basic arithmetic operations through an i
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository :
    git clone https://github.com/kadriazmi/javascript-calculator.git
 
-2. Open the project folder.
+3. Open the project folder.
 
-3. Open `index.html` in your browser.
+4. Open `index.html` in your browser.
 
 ---
 
@@ -51,6 +51,12 @@ This project was developed while learning JavaScript fundamentals including:
 - Event handling
 - Working with localStorage
 - Building interactive UI components
+
+---
+
+## Live Demo
+
+[Open Calculator](https://kadriazmi.github.io/javascript-calculator/)
 
 ---
 
